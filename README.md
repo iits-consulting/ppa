@@ -5,6 +5,7 @@
  ```bash 
  sudo curl -SsL -o /etc/apt/trusted.gpg.d/otc-auth_ppa.gpg https://iits-consulting.github.io/ppa/debian/KEY.gpg 
  sudo curl -SsL -o /etc/apt/sources.list.d/otc-auth.list https://iits-consulting.github.io/ppa/debian/otc-auth.list 
+ cat /etc/apt/trusted.gpg.d/otc-auth_ppa.gpg | gpg --dearmor | tee /etc/apt/trusted.gpg.d/otc-auth_ppa.gpg >/dev/null 
  sudo apt update 
  sudo apt install otc-auth 
  ```
