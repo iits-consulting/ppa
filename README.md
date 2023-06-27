@@ -1,4 +1,5 @@
-![iits](https://iits-consulting.de/wp-content/uploads/2021/08/iits-logo-2021-red-square-xl.png) # otc-auth PPA
+<img src='https://iits-consulting.de/wp-content/uploads/2021/08/iits-logo-2021-red-square-xl.png' width=200> 
+ # otc-auth PPA
 This repo (based on the one [here](https://github.com/assafmo/ppa)) contains .deb files built from the [latest version of otc-auth](https://github.com/iits-consulting/otc-auth/releases).
 
  ## Usage 
