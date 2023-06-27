@@ -3,10 +3,10 @@ Version: 2.0.0
 Architecture: 386/
 Maintainer: Mweya Ruider <mweya.ruider@iits-consulting.de>
 Filename: ./otc-auth_2.0.0-1_386.deb
-Size: 3585886
-MD5sum: d1cf80f50d3f44f65e9a2c0d84566321
-SHA1: c3ef855a389227e08482a6cc3a88bdb9c1577274
-SHA256: 5f4bbe41ec47d1015dc82839bfd3b8a0b75a23f6423ad8bdfc63fd73edf123dc
+Size: 3585852
+MD5sum: dbd69c64d0d13b8875f8d8b2fc639a9e
+SHA1: 6ea93994f57087f203a006e82ce0929ccf369936
+SHA256: 3a6520b8eb58c1f7b452244d0618fc2406ef35579d042b780c9f01a7cf9cefed
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go.
 
@@ -15,10 +15,10 @@ Version: 2.0.0
 Architecture: amd64/
 Maintainer: Mweya Ruider <mweya.ruider@iits-consulting.de>
 Filename: ./otc-auth_2.0.0-1_amd64.deb
-Size: 3816618
-MD5sum: 568dbce54c68bb78368e673628edf3b5
-SHA1: 6af85bc5c376320eb4e458498b3676f797697f5e
-SHA256: f8f0658ce0c1ccfcfc216e3123215e3d885f05aeb9ded65a9fb7faa85ec9448c
+Size: 3816514
+MD5sum: 17e2068bdc9ab7dd44c93cf909266055
+SHA1: 90eead250cac296dc09e057b7881ffc7f9613dfb
+SHA256: 08327edd52f0d102b5aa02500a13e11d55233d4e8bcff189382d623bf88c442b
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go.
 
@@ -27,10 +27,10 @@ Version: 2.0.0
 Architecture: arm64/
 Maintainer: Mweya Ruider <mweya.ruider@iits-consulting.de>
 Filename: ./otc-auth_2.0.0-1_arm64.deb
-Size: 3392138
-MD5sum: 652706040b155302efccb20795477cdc
-SHA1: 1dfd52bdf167dac5b9e9a931a96a86caf108d380
-SHA256: 010d3b2ea7f2b34b636fac2644ea1384ab83b9a72d524613ac637a218c501aab
+Size: 3392128
+MD5sum: d6ffa355924d76752a59e3c225fcee18
+SHA1: b8b757c5216b5f6ce2782eb054d1b38ea3160af3
+SHA256: e1687f849e7192752e5741573aeae04fdce525347be48ab087a0cc32505fa8fe
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go.
 
