@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: kontakt@iits-consulting.de
 Installed-Size: 13696
 Filename: ./otc-auth_2.1.1_arm64.deb
-Size: 5259788
-MD5sum: 9573c561eed468baaeef49a5ce766fdc
-SHA1: 696062ef5fa06bb398fbd437919c9ce6bbbe5108
-SHA256: 32fca0148367b10e11a6a6c09b8930fa3db99aabed371e843ee02d442b5c61e5
+Size: 5259774
+MD5sum: 1c607f8084f291f00876d530dd96ab34
+SHA1: 1fd32fbc2ce278d67ca9015c16bc21e6ff76d16f
+SHA256: 63f48a84d176d2b2d303c091e4c19e9a5b5c70734790d3472ae3d465002bdb7c
 Priority: optional
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go
@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: kontakt@iits-consulting.de
 Installed-Size: 14488
 Filename: ./otc-auth_2.1.1_amd64.deb
-Size: 5801706
-MD5sum: 8fa665c32146ca84358ef8c0623b9cbb
-SHA1: c1daa7ad6bc22bdb9289f0bcbb688cb66b2f03ce
-SHA256: dbe18bb58fdf9456124e66f234a4ea20dccc47c9e96c8cd1abd886955bbac3ed
+Size: 5801714
+MD5sum: dd5052790a050c4d1a81487b77895f87
+SHA1: 82a3556deef7ba5b85d944a04a2c40192596cefb
+SHA256: 00318b0a09592a3f89245fe7817bcec4dc72f05ddcccf3ab10cb4b7e2eb546ef
 Priority: optional
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go
@@ -32,10 +32,10 @@ Architecture: i386
 Maintainer: kontakt@iits-consulting.de
 Installed-Size: 13740
 Filename: ./otc-auth_2.1.1_i386.deb
-Size: 5514524
-MD5sum: 332eb45b32548b2e101b7837e1fd95a1
-SHA1: 69885985fc376e364e54eee2304e33f9fcc1d732
-SHA256: 0a1b8b7bb7f7140e4be982312e0bfef28397ba8cecbaca5df19a00cb6dc320cc
+Size: 5514530
+MD5sum: ca98f4b24db0207e2cdd5c1bfa5eee16
+SHA1: 1697b40a020dbebf09668bfe84dc17d389ec422b
+SHA256: 3d94f53b5be58e6d66df02a6d96e72668da19dbf9274710f639036510e9c3ba5
 Priority: optional
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go
