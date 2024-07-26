@@ -1,41 +1,41 @@
 Package: otc-auth
-Version: 2.2.0
-Architecture: amd64
-Maintainer: kontakt@iits-consulting.de
-Installed-Size: 14484
-Filename: ./otc-auth_2.2.0_amd64.deb
-Size: 5797704
-MD5sum: 3066aecda17953dbd8ccb7105820a8d2
-SHA1: c5fbf7d5d0a4a1ad05503cfd607a99613e900d6e
-SHA256: 5a24841ba1dc1501eb4d3a2be99641c710d41e82f3fc92f7af5172e54589703e
-Priority: optional
-Homepage: https://github.com/iits-consulting/otc-auth
-Description: Open Source CLI for the Open Telekom Cloud written in go
-
-Package: otc-auth
-Version: 2.2.0
-Architecture: arm64
-Maintainer: kontakt@iits-consulting.de
-Installed-Size: 13696
-Filename: ./otc-auth_2.2.0_arm64.deb
-Size: 5256398
-MD5sum: 6c93f82e80a7c7ad2caa234090bbb8b6
-SHA1: a885cef24a4e4c08d58d7396ba6258d55a0f5175
-SHA256: f2b7a2a88bf8d96ed7b091c321323de2637a4256c33566a8f2b0ef6142580a9d
-Priority: optional
-Homepage: https://github.com/iits-consulting/otc-auth
-Description: Open Source CLI for the Open Telekom Cloud written in go
-
-Package: otc-auth
-Version: 2.2.0
+Version: 2.2.1
 Architecture: i386
 Maintainer: kontakt@iits-consulting.de
-Installed-Size: 13736
-Filename: ./otc-auth_2.2.0_i386.deb
-Size: 5511700
-MD5sum: 4d54170fe11f0d25de8f55bf75ab12c6
-SHA1: 30e171d7c9200d35c6d37a65b1d4c7cc35254e54
-SHA256: 6d3a3b5818f30574204110f0e60150d484c3f5a656c29c86373eb845ce8781e6
+Installed-Size: 13892
+Filename: ./otc-auth_2.2.1_i386.deb
+Size: 5504186
+MD5sum: d282c3137ca81e807ae4c7e58b70044c
+SHA1: 93fdc71c79b6ff9cb3e3d0f4a2081771307e7764
+SHA256: 538f0b47efc86639b4798717a2d423cebd0d041aa9e57b4b05afa38b2ba84338
+Priority: optional
+Homepage: https://github.com/iits-consulting/otc-auth
+Description: Open Source CLI for the Open Telekom Cloud written in go
+
+Package: otc-auth
+Version: 2.2.1
+Architecture: amd64
+Maintainer: kontakt@iits-consulting.de
+Installed-Size: 14676
+Filename: ./otc-auth_2.2.1_amd64.deb
+Size: 5892682
+MD5sum: aae5bd79e28d4627cb606f3c0549a193
+SHA1: 36470611a836fb5c5820065b908efcea8d5857bf
+SHA256: 3893ac7f75e2d556fbc2f8dddbb0b5e022088963008cd932e526d797759be7c6
+Priority: optional
+Homepage: https://github.com/iits-consulting/otc-auth
+Description: Open Source CLI for the Open Telekom Cloud written in go
+
+Package: otc-auth
+Version: 2.2.1
+Architecture: arm64
+Maintainer: kontakt@iits-consulting.de
+Installed-Size: 14144
+Filename: ./otc-auth_2.2.1_arm64.deb
+Size: 5400590
+MD5sum: 5561a2c8fbb2c3c6254af350d0b96a27
+SHA1: 25087f5fff2c7ff38c0f7474e30e21101f75fa45
+SHA256: ff3462e310e7be6408abe9445f7b2b999430e8ca86f76b260d7742a1349d7d81
 Priority: optional
 Homepage: https://github.com/iits-consulting/otc-auth
 Description: Open Source CLI for the Open Telekom Cloud written in go
